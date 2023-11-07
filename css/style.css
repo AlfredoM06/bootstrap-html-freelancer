@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.profile-foto {
+    width: 45%;
+    height: 45%;
+}
